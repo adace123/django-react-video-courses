@@ -1,0 +1,6 @@
+/.vscode
+/.idea
+/backend/courses/migrations/
+/backend/memberships/migrations
+/backend/courses/*.pyc
+/backend/memberships/*.pyc

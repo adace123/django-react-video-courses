@@ -1,0 +1,1 @@
+### Basic video course app with Django, React and Typescript
